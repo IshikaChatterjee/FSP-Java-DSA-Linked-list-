@@ -65,6 +65,21 @@ class LinkedList {
         }
         System.out.println();
     }
+
+    public void printMiddle() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printMiddle'");
+    }
+
+    public void printList() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printList'");
+    }
+
+    public void push(int data) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'push'");
+    }
 }
 
 public class LinkedListOp {
